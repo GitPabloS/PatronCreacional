@@ -1,0 +1,4 @@
+Se utilizo el Factory method
+En el ejemplo vemos dos tipos de pizzas y dos tipos de pizzerias una el padrino y otra malcriada.
+El Factory creara los dos tipod de pizzas. Temos un Factory abstracto y los factory concretas que crearan una pizza.
+Segun que que pizza pidamos obtendremos esa pizza del la clase concreta.

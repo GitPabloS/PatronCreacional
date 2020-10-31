@@ -1,0 +1,11 @@
+D:\Sistemas\Semestre 20-2\Arqui\Labo 3\Patrones Creacionales\Patrones Creacionales\bin\Debug\netcoreapp2.2\Patrones Creacionales.deps.json
+D:\Sistemas\Semestre 20-2\Arqui\Labo 3\Patrones Creacionales\Patrones Creacionales\bin\Debug\netcoreapp2.2\Patrones Creacionales.runtimeconfig.json
+D:\Sistemas\Semestre 20-2\Arqui\Labo 3\Patrones Creacionales\Patrones Creacionales\bin\Debug\netcoreapp2.2\Patrones Creacionales.runtimeconfig.dev.json
+D:\Sistemas\Semestre 20-2\Arqui\Labo 3\Patrones Creacionales\Patrones Creacionales\bin\Debug\netcoreapp2.2\Patrones Creacionales.dll
+D:\Sistemas\Semestre 20-2\Arqui\Labo 3\Patrones Creacionales\Patrones Creacionales\bin\Debug\netcoreapp2.2\Patrones Creacionales.pdb
+D:\Sistemas\Semestre 20-2\Arqui\Labo 3\Patrones Creacionales\Patrones Creacionales\obj\Debug\netcoreapp2.2\Patrones Creacionales.csprojAssemblyReference.cache
+D:\Sistemas\Semestre 20-2\Arqui\Labo 3\Patrones Creacionales\Patrones Creacionales\obj\Debug\netcoreapp2.2\Patrones Creacionales.csproj.CoreCompileInputs.cache
+D:\Sistemas\Semestre 20-2\Arqui\Labo 3\Patrones Creacionales\Patrones Creacionales\obj\Debug\netcoreapp2.2\Patrones Creacionales.AssemblyInfoInputs.cache
+D:\Sistemas\Semestre 20-2\Arqui\Labo 3\Patrones Creacionales\Patrones Creacionales\obj\Debug\netcoreapp2.2\Patrones Creacionales.AssemblyInfo.cs
+D:\Sistemas\Semestre 20-2\Arqui\Labo 3\Patrones Creacionales\Patrones Creacionales\obj\Debug\netcoreapp2.2\Patrones Creacionales.dll
+D:\Sistemas\Semestre 20-2\Arqui\Labo 3\Patrones Creacionales\Patrones Creacionales\obj\Debug\netcoreapp2.2\Patrones Creacionales.pdb
